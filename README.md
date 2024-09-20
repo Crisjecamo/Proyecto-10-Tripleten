@@ -1,5 +1,3 @@
-Énfasis en la oportunidad de negocio y el análisis de mercado
-
 Proyecto: Análisis de Viabilidad de un Café Robótico
 
 Descripción:
